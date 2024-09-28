@@ -1,9 +1,9 @@
 # lokalise-badge
 This project is a simple way to display the progress of a lokalise project in a [Shields.io](https://shields.io/) badge.
 
-![Translated](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzyf722%2Flokalise-badge%2Fmain%2Fbadges%2Ftranslated.json)
+![Translated](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flive-codes%2Flokalise-badge%2Fmain%2Fbadges%2Ftranslated.json)
 
-![Languages](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzyf722%2Flokalise-badge%2Fmain%2Fbadges%2Flanguages.json)
+![Languages](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flive-codes%2Flokalise-badge%2Fmain%2Fbadges%2Flanguages.json)
 
 ## Set-up
 Fork this repository and add the following secrets to your fork:
